@@ -1,0 +1,18 @@
+{
+    "name": "io-jaegers/file-system",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IoJaegers\\FileSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kent vejrup Madsen",
+            "email": "kent.vejrup.madsen@designermadsen.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
